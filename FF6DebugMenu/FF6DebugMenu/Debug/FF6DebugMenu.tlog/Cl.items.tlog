@@ -1,0 +1,14 @@
+C:\Users\icymo\Desktop\imgui-1.92.9b\backends\imgui_impl_dx9.cpp;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\imgui_impl_dx9.obj
+C:\Users\icymo\Desktop\imgui-1.92.9b\backends\imgui_impl_win32.cpp;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\imgui_impl_win32.obj
+C:\Users\icymo\Desktop\imgui-1.92.9b\imgui.cpp;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\imgui.obj
+C:\Users\icymo\Desktop\imgui-1.92.9b\imgui_draw.cpp;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\imgui_draw.obj
+C:\Users\icymo\Desktop\imgui-1.92.9b\imgui_tables.cpp;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\imgui_tables.obj
+C:\Users\icymo\Desktop\imgui-1.92.9b\imgui_widgets.cpp;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\imgui_widgets.obj
+C:\Users\icymo\source\repos\FF6DebugMenu\includes\buffer.c;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\buffer.obj
+C:\Users\icymo\source\repos\FF6DebugMenu\includes\hde32.c;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\hde32.obj
+C:\Users\icymo\source\repos\FF6DebugMenu\includes\hde64.c;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\hde64.obj
+C:\Users\icymo\source\repos\FF6DebugMenu\includes\hook.c;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\hook.obj
+C:\Users\icymo\source\repos\FF6DebugMenu\includes\trampoline.c;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\trampoline.obj
+C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\dllmain.cpp;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\dllmain.obj
+C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\FF6DebugMenu.cpp;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\FF6DebugMenu.obj
+C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\pch.cpp;C:\Users\icymo\source\repos\FF6DebugMenu\FF6DebugMenu\Debug\pch.obj

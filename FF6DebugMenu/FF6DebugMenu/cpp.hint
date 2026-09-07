@@ -1,0 +1,2 @@
+#define FF6DEBUGMENU_API __declspec(dllexport)
+#define FF6DEBUGMENU_API __declspec(dllimport)
